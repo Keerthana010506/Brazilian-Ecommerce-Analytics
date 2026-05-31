@@ -1,7 +1,3 @@
-## Dashboard
-
-![Brazilian E-Commerce Dashboard](dashboard.png)
-
 # Brazilian E-Commerce Analytics Dashboard
 
 ## Project Overview
@@ -24,3 +20,7 @@ Analyzed Brazilian e-commerce transaction data using MySQL and Tableau to identi
 - Data Analysis
 - Tableau Dashboard Development
 - Business Insights
+
+## Dashboard
+
+![Brazilian E-Commerce Dashboard](dashboard.png)
