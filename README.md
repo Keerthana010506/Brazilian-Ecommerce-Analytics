@@ -1,3 +1,7 @@
+## Dashboard
+
+![Brazilian E-Commerce Dashboard](dashboard.png)
+
 # Brazilian E-Commerce Analytics Dashboard
 
 ## Project Overview
